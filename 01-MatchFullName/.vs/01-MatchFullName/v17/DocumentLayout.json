@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Laptop\\Desktop\\C#\\Regular-Expressions-RegEx-Lab\\01-MatchFullName\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{752C106F-2F0B-41AD-A435-48ED26218E89}|01-MatchFullName\\01-MatchFullName.csproj|c:\\users\\laptop\\desktop\\c#\\regular-expressions-regex-lab\\01-matchfullname\\01-matchfullname\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{752C106F-2F0B-41AD-A435-48ED26218E89}|01-MatchFullName\\01-MatchFullName.csproj|solutionrelative:01-matchfullname\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\C#\\Regular-Expressions-RegEx-Lab\\01-MatchFullName\\01-MatchFullName\\Program.cs",
+              "RelativeDocumentMoniker": "01-MatchFullName\\Program.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Desktop\\C#\\Regular-Expressions-RegEx-Lab\\01-MatchFullName\\01-MatchFullName\\Program.cs*",
+              "RelativeToolTip": "01-MatchFullName\\Program.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T12:52:52.475Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
