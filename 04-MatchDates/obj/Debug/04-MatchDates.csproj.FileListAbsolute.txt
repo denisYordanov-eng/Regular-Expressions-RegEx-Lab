@@ -1,0 +1,7 @@
+C:\Users\Laptop\Desktop\C#\Regular-Expressions-RegEx-Lab\Regular-Expressions-Regex-Lab\04-MatchDates\bin\Debug\04-MatchDates.exe.config
+C:\Users\Laptop\Desktop\C#\Regular-Expressions-RegEx-Lab\Regular-Expressions-Regex-Lab\04-MatchDates\bin\Debug\04-MatchDates.exe
+C:\Users\Laptop\Desktop\C#\Regular-Expressions-RegEx-Lab\Regular-Expressions-Regex-Lab\04-MatchDates\bin\Debug\04-MatchDates.pdb
+C:\Users\Laptop\Desktop\C#\Regular-Expressions-RegEx-Lab\Regular-Expressions-Regex-Lab\04-MatchDates\obj\Debug\04-MatchDates.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\C#\Regular-Expressions-RegEx-Lab\Regular-Expressions-Regex-Lab\04-MatchDates\obj\Debug\04-MatchDates.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\C#\Regular-Expressions-RegEx-Lab\Regular-Expressions-Regex-Lab\04-MatchDates\obj\Debug\04-MatchDates.exe
+C:\Users\Laptop\Desktop\C#\Regular-Expressions-RegEx-Lab\Regular-Expressions-Regex-Lab\04-MatchDates\obj\Debug\04-MatchDates.pdb
