@@ -1,0 +1,7 @@
+C:\Users\Laptop\Desktop\C#\Regular-Expressions-RegEx-Lab\01-MatchFullName\05-MatchNumbers\bin\Debug\05-MatchNumbers.exe.config
+C:\Users\Laptop\Desktop\C#\Regular-Expressions-RegEx-Lab\01-MatchFullName\05-MatchNumbers\bin\Debug\05-MatchNumbers.exe
+C:\Users\Laptop\Desktop\C#\Regular-Expressions-RegEx-Lab\01-MatchFullName\05-MatchNumbers\bin\Debug\05-MatchNumbers.pdb
+C:\Users\Laptop\Desktop\C#\Regular-Expressions-RegEx-Lab\01-MatchFullName\05-MatchNumbers\obj\Debug\05-MatchNumbers.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\C#\Regular-Expressions-RegEx-Lab\01-MatchFullName\05-MatchNumbers\obj\Debug\05-MatchNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\C#\Regular-Expressions-RegEx-Lab\01-MatchFullName\05-MatchNumbers\obj\Debug\05-MatchNumbers.exe
+C:\Users\Laptop\Desktop\C#\Regular-Expressions-RegEx-Lab\01-MatchFullName\05-MatchNumbers\obj\Debug\05-MatchNumbers.pdb
