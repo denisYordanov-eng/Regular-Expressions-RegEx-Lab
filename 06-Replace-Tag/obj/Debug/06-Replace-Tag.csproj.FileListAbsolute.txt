@@ -1,0 +1,7 @@
+C:\Users\Laptop\Desktop\C#\Regular-Expressions-RegEx-Lab\01-MatchFullName\06-Replace-Tag\bin\Debug\06-Replace-Tag.exe.config
+C:\Users\Laptop\Desktop\C#\Regular-Expressions-RegEx-Lab\01-MatchFullName\06-Replace-Tag\bin\Debug\06-Replace-Tag.exe
+C:\Users\Laptop\Desktop\C#\Regular-Expressions-RegEx-Lab\01-MatchFullName\06-Replace-Tag\bin\Debug\06-Replace-Tag.pdb
+C:\Users\Laptop\Desktop\C#\Regular-Expressions-RegEx-Lab\01-MatchFullName\06-Replace-Tag\obj\Debug\06-Replace-Tag.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\C#\Regular-Expressions-RegEx-Lab\01-MatchFullName\06-Replace-Tag\obj\Debug\06-Replace-Tag.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\C#\Regular-Expressions-RegEx-Lab\01-MatchFullName\06-Replace-Tag\obj\Debug\06-Replace-Tag.exe
+C:\Users\Laptop\Desktop\C#\Regular-Expressions-RegEx-Lab\01-MatchFullName\06-Replace-Tag\obj\Debug\06-Replace-Tag.pdb
